@@ -11,6 +11,7 @@
 <header id="header">
     <h1><?php echo bloginfo('name'); ?></h1>
     <nav id="navigation">
+        <?php wp_nav_menu(array('theme_location' => 'main')); ?>
     </nav>
 </header>
 
