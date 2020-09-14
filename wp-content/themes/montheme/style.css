@@ -6,3 +6,10 @@ Author URI: https://www.tutowp.fr/tutowp
 Description: Thème simple avec un menu et une barre latérale
 Version: 1.0
 */
+{box-sizing: border-box;}
+body {
+    background: #f1f1f1;
+    color: #23282d;
+    font-family: Arial,
+    sans-serif; margin: 0;
+}
